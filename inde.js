@@ -1,1 +1,5 @@
-console.log("hello world1");
+function great() {
+  console.log("Hello, World!");
+}
+
+great();
